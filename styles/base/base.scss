@@ -24,7 +24,7 @@ body {
   @extend %cover;
   @extend %description-16;
 
-  font-family: $font-suisse-bp;
+  font-family: $font-san-serif;
   position: fixed;
 }
 
@@ -62,9 +62,9 @@ img {
   @extend %cover;
 }
 
-[data-animation="label"],
-[data-animation="paragraph"],
-[data-animation="title"] {
+[data-animation='label'],
+[data-animation='paragraph'],
+[data-animation='title'] {
   span {
     display: inline-block;
     overflow: hidden;

@@ -1,17 +1,12 @@
-$color-bright-gray: #37384C;
-$color-cadet-blue: #B2B8C3;
-$color-contessa: #C97164;
-$color-quicksand: #BC978C;
-$color-quarter-spanish-white: #F9F1E7;
+$color-bright-gray: #37384c;
+$color-cadet-blue: #b2b8c3;
+$color-contessa: #768662;
+$color-quicksand: #658979;
+$color-quarter-spanish-white: #f9f1e7;
 
-$font-george-x: 'George X';
-$font-suisse-bp: 'Suisse BP';
+$font-bodoni-flf: 'BodoniFLF';
+$font-san-serif: sans-serif;
 
 $ease-out-expo: cubic-bezier(0.19, 1, 0.22, 1);
 
-$z-indexes: (
-  'preloader',
-  'navigation',
-  'content',
-  'canvas'
-);
+$z-indexes: ('preloader', 'navigation', 'content', 'canvas');
